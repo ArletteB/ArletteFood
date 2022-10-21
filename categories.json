@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "Vêtement"
+    },
+    {
+        "id": 2,
+        "title": "Tee-shirt"
+    },
+    {
+        "id": 3,
+        "title": "Jeans"
+    },
+
+    {
+        "id": 4,
+        "title": "Chaussure"
+    }
+]

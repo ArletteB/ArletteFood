@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "title": "DisickMan",
+        "image": "https://scontent-cdt1-1.xx.fbcdn.net/v/t39.30808-6/299513239_3407462326152745_4639174520608104838_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a26aad&_nc_ohc=IrYbw3RKrjsAX8NiOPj&_nc_ht=scontent-cdt1-1.xx&oh=00_AT-8iZIA_P_sh7NkZzSAKusT13gfRvRc9u3qhfDL_WHGlQ&oe=6356C520",
+        "contenu": "Tee-shirt Disick Man",
+        "_links": {
+            "categories": [
+                {
+                    "href": "http://localhost/categories/1"
+                },
+                {
+                    "href": "http://localhost/categories/2"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "Ho Design",
+        "image": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.6435-9/145160103_150551820212667_4594231403382314966_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=BXj_9mY2SWUAX8bMZux&_nc_ht=scontent-cdt1-1.xx&oh=00_AT9uu0rL3wLoRbPnq2f5FdmWcDTa9X9HoAEd93cIqTnEpA&oe=63767B5B",
+        "contenu": "Made in Gabao créer par Hans OBAME",
+        "_links": {
+            "categories": [
+                {
+                    "href": "http://localhost/categories/1"
+                },
+                {
+                    "href": "http://localhost/categories/2"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "Sliman",
+        "image": "http://www.stpetershatfield.org/wp-content/uploads/2021/11/jeans-breal-femme-jean-slim-taille-basculc3a9e-denim-brut-femme-1.jpg",
+        "contenu": "Jeans Slim pour les Skiny",
+        "_links": {
+            "categories": [
+                {
+                    "href": "http://localhost/categories/1"
+                },
+                {
+                    "href": "http://localhost/categories/3"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "Pattedephe",
+        "image": "https://m.media-amazon.com/images/I/61o3SiT9rlL._UY550_.jpg",
+        "contenu": "Les Choses des Apoutchou",
+        "_links": {
+            "categories": [
+                {
+                    "href": "http://localhost/categories/1"
+                },
+                {
+                    "href": "http://localhost/categories/3"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "title": "Converse Adidas",
+        "image": "https://www.gala.fr/imgre/fit/~1~gal~2022~10~04~a6828d64-5421-44c2-af0f-7dbb7448b2f9.jpeg/1140x499/cr/wqkgVW5zcGxhc2ggLyBHYWxh/il-vous-faut-absolument-cette-paire-de-baskets-adidas-ultra-tendance-et-elles-sont-a-petit-prix.jpg",
+        "contenu": "De marque Adidas",
+        "_links": {
+            "categories": [
+                {
+                    "href": "http://localhost/categories/4"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "title": "All Star",
+        "image": "https://www.cisalfasport.it/on/demandware.static/-/Library-Sites-CisalfaSharedLibrary/default/dw7c553016/0-Brandpage/Converse/Widget/CONVERSE-PE22-brand-special-FOOTWEARL-720x432.jpg",
+        "contenu": "De All Start fabrique",
+        "_links": {
+            "categories": [
+                {
+                    "href": "http://localhost/categories/4"
+                }
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "title": "Nike",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nike_air_Force_1_white_on_white.jpg/2560px-Nike_air_Force_1_white_on_white.jpg",
+        "contenu": "Marque Populaire",
+        "_links": {
+            "categories": [
+                {
+                    "href": "http://localhost/categories/4"
+                }
+            ]
+        }
+    }
+]
